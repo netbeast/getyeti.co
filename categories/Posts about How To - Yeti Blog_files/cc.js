@@ -1,0 +1,1 @@
+if(console){var cookiedomainwarning='Error: GETYETI.WEBFLOW.IO is not a valid domain. Please add it to the cookie consent manager to authorize the domain.';if(typeof console.warn === 'function'){console.warn(cookiedomainwarning)}else{console.log(cookiedomainwarning)}};
